@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string-array name="list">
+        <item>列表1</item>
+        <item>列表2</item>
+        <item>列表3</item>
+        <item>列表4</item>
+        <item>列表5</item>
+        <item>列表6</item>
+        <item>列表7</item>
+        <item>列表8</item>
+        <item>列表9</item>
+        <item>列表10</item>
+    </string-array>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
